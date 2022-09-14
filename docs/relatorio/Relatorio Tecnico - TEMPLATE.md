@@ -53,7 +53,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A cada dia que passa o mundo se torna mais e mais globalizado, tendo isso em vista muitas pessoas se veem em um cenário no qual saber uma única língua é insuficiente, seja por oportunidades no mercado de trabalho, sonho de morar fora, comunicar com pessoas de outros países, consumir conteúdo em outra língua, viajar, entre outras várias coisas. Ademais, quem que não falam inglês e desejam aprender uma língua (ex Mandarim) não encontram nenhum material traduzido para estudar, tornando quase impossível esse processo de aprendizagem. Sem falar que, dependendo da língua, mesmo sendo fluente em inglês é extremamente difícil encontrar bons materiais. Por fim, muitas dessas pessoas não tem como pagar financeiramente para ter acesso a um ensino bom ou recursos de qualidade.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
