@@ -57,19 +57,10 @@ O objetivo do nosso grupo é desenvolver um software que facilite o aprendizado 
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Nós escolhemos este tema justamente por que achamos que é algo muito importante tanto na formação acadêmica de qualquer pessoa quanto na vida dela, é um assunto muito importante e queremos ajudar como resolvê-lo.
+O objetivo do nosso grupo é desenvolver um software que facilite o aprendizado de linguas para quem tem interesse ou necessita aprender um novo idioma. Temos como foco a criação de algo que possa ser acessível a todos, e que os usários tenham como exercitar o aprendizado em qualquer lugar e a qualquer momento de forma simples, prática, mas ao mesmo tempo eficiente.
+A cada dia que se passa a nessecidade de aprender novas linguas aumenta mais, sendo por qualquer motivo, a vontade de aprender ou por que precisa aprender, e ja que o nosso problema é "Aprender Linguas" logo identificamos nosso publico alvo, que seriam pessoas que querem ou precisam aprender línguas, pessoas que estão insatisfeitas com as ferramentas que usam para aprender línguas, alunos que praticam o estudo de outras linguas, os professores que irão aprender para depois ensinar para outras pessoas, pessoas que irão mudar de país e precisam conhecer uma nova lingua, seja ela qual for e é claro as Instituições de ensino.
+Nossa fonte e onde nosso trabalho foi baseado são em entrevistas com nosso público alvo e conversas, pois eles são a melhor fonte que podemos ter sobre nosso problema!
 
 ## Público-Alvo
  A cada dia que se passa a nessecidade de aprender novas linguas aumenta mais, sendo por qualquer motivo, a vontade de aprender ou por que precisa aprender, e ja que o nosso problema é "Aprender Linguas" logo identificamos nosso publico alvo, que seriam pessoas que querem ou precisam aprender línguas, pessoas que estão insatisfeitas com as ferramentas que usam para aprender línguas, alunos que praticam o estudo de outras linguas, os professores que irão aprender para depois ensinar para outras pessoas, pessoas que irão mudar de país e precisam conhecer uma nova lingua, seja ela qual for e é claro as Instituições de ensino.
