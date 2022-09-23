@@ -101,24 +101,11 @@ A cada dia que passa o mundo se torna mais e mais globalizado, tendo isso em vis
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
+ A cada dia que se passa a nessecidade de aprender novas linguas aumenta mais, sendo por qualquer motivo, a vontade de aprender ou por que precisa aprender, e ja que o nosso problema é "Aprender Linguas" logo identificamos nosso publico alvo, que seriam pessoas que querem ou precisam aprender línguas, pessoas que estão insatisfeitas com as ferramentas que usam para aprender línguas, alunos que praticam o estudo de outras linguas, os professores que irão aprender para depois ensinar para outras pessoas, pessoas que irão mudar de país e precisam conhecer uma nova lingua, seja ela qual for e é claro as Instituições de ensino.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![image](https://user-images.githubusercontent.com/90773483/191873944-93004095-72b7-415f-81fd-e6478c858800.png)
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
+
 # Especificações do Projeto
 
 ......  COLOQUE AQUI O SEU TEXTO ......
