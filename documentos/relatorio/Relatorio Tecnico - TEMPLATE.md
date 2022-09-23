@@ -1,11 +1,7 @@
 # Informações do Projeto
 `Idiomatize`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-`Ciência da Computação` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+`Ciência da Computação`
 
 ## Participantes
 
@@ -54,22 +50,6 @@
 ## Problema
 
 A cada dia que passa o mundo se torna mais e mais globalizado, tendo isso em vista muitas pessoas se veem em um cenário no qual saber uma única língua é insuficiente, seja por oportunidades no mercado de trabalho, sonho de morar fora, comunicar com pessoas de outros países, consumir conteúdo em outra língua, viajar, entre outras várias coisas. Ademais, quem que não falam inglês e desejam aprender uma língua (ex Mandarim) não encontram nenhum material traduzido para estudar, tornando quase impossível esse processo de aprendizagem. Sem falar que, dependendo da língua, mesmo sendo fluente em inglês é extremamente difícil encontrar bons materiais. Por fim, muitas dessas pessoas não tem como pagar financeiramente para ter acesso a um ensino bom ou recursos de qualidade.
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
