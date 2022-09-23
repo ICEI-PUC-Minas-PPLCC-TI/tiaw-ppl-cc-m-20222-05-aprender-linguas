@@ -73,16 +73,7 @@ A cada dia que passa o mundo se torna mais e mais globalizado, tendo isso em vis
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo do nosso grupo é desenvolver um software que facilite o aprendizado de linguas para quem tem interesse ou necessita aprender um novo idioma. Temos como foco a criação de algo que possa ser acessível a todos, e que os usários tenham como exercitar o aprendizado em qualquer lugar e a qualquer momento de forma simples, prática, mas ao mesmo tempo eficiente. Vale enfatizar que pretendemos dar luz a um projeto dinâmico, tendo em vista que durante entrevistas com possíveis futuros usúarios averiguamos que o maior empecilho para o aprendizado de um novo idioma é a falta de tempo, que se faz cada vez mais frequente no atual mundo globalizado.
 
 ## Justificativa
 
