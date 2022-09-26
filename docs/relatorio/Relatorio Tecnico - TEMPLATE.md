@@ -63,7 +63,7 @@ A cada dia que se passa a nessecidade de aprender novas linguas aumenta mais, se
 Nossa fonte e onde nosso trabalho foi baseado são em entrevistas com nosso público alvo e conversas, pois eles são a melhor fonte que podemos ter sobre nosso problema!
 
 ## Público-Alvo
- A cada dia que se passa a nessecidade de aprender novas linguas aumenta mais, sendo por qualquer motivo, a vontade de aprender ou por que precisa aprender, e ja que o nosso problema é "Aprender Linguas" logo identificamos nosso publico alvo, que seriam pessoas que querem ou precisam aprender línguas, pessoas que estão insatisfeitas com as ferramentas que usam para aprender línguas, alunos que praticam o estudo de outras linguas, os professores que irão aprender para depois ensinar para outras pessoas, pessoas que irão mudar de país e precisam conhecer uma nova lingua, seja ela qual for e é claro as Instituições de ensino.
+Nosso publico alvo são pessoas de qualquer idade, que sabem acessar sites e que querem, precisam ou já estão aprendendo outras línguas. Assim pessoas que estão insatisfeitas com as ferramentas que usam para aprender línguas, alunos que praticam o estudo de outras linguas, pessoas que buscam novas oporunidades no emprego ou na faculdade e pessoas que irão mudar de país são nosso foco para esse trabalho.
 
 ![image](https://user-images.githubusercontent.com/90773483/191873944-93004095-72b7-415f-81fd-e6478c858800.png)
 
