@@ -47,6 +47,8 @@
 
 # Introdução
 
+No nosso projeto focamos em estudar a fundo o problema de estudar uma nova língua, quem sente essa dor, o porquê dessa dor, como é possivel amenizar essa dor e o que as pessoas gostariam de ter como ferramenta para auxilia-las. Assim, estamos desevolvendo uma solução, carinhosamente chamada de "Idiomatize", para que quem enfrenta essa questão de sofrer para aprender uma língua seja amparado.
+
 ## Problema
 
 A cada dia que passa o mundo se torna mais e mais globalizado, tendo isso em vista muitas pessoas se veem em um cenário no qual saber uma única língua é insuficiente, seja por oportunidades no mercado de trabalho, sonho de morar fora, comunicar com pessoas de outros países, consumir conteúdo em outra língua, viajar, entre outras várias coisas. Ademais, quem que não falam inglês e desejam aprender uma língua (ex Mandarim) não encontram nenhum material traduzido para estudar, tornando quase impossível esse processo de aprendizagem. Sem falar que, dependendo da língua, mesmo sendo fluente em inglês é extremamente difícil encontrar bons materiais. Por fim, muitas dessas pessoas não tem como pagar financeiramente para ter acesso a um ensino bom ou recursos de qualidade.
@@ -70,12 +72,6 @@ Nosso publico alvo são pessoas de qualquer idade, que sabem acessar sites e que
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
-
 ## Personas e Mapas de Empatia
 
 ![image](https://user-images.githubusercontent.com/113730402/191875415-fc8945ae-ba4e-4c64-9ae2-418a96b155d0.png)
@@ -89,15 +85,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Treinar minha escuta na língua     | Ser capaz de ter uma comunicação plena |
+|Usuário do sistema  | Interagir com outras pessoas       | Engajar no estudo e compartilhar coisas|
+|Usuário do sistema  | Ver minha frequencia no site       | Me organzar melhor e ter disciplina    |
+|Usuário do sistema  | Fazer questões para me testar      | Ver se estou aprendendo                |
+|Usuário do sistema  | Aprender sobre as culturas         | Facilitar a troca internacional        |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
+
 >
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -111,8 +105,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário cadastre textos de estudo | ALTA | 
+|RF-002| Armazenar as informações de frequencia do usuário   | MÉDIA |
 
 
 ### Requisitos não Funcionais
@@ -121,6 +115,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003|	O cadastramento de informações deve ser rapido e fácil|	ALTA
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
@@ -133,10 +128,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 >   correspondem a uma característica técnica, seja de usabilidade,
 >   desempenho, confiabilidade, segurança ou outro (ex: suporte a
 >   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -146,24 +137,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|03|	O projeto deve respeitar as datas de entrega         |
+|04|	Não devera ter ajuda de terceiros no projeto         |
 
 
 # Projeto de Interface
-
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -171,51 +149,40 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-![image](https://user-images.githubusercontent.com/113730402/191881404-88604584-e225-4a8b-8ac0-04e09d7ddd74.png)
+![16](https://user-images.githubusercontent.com/98985632/192395747-3931fd46-7bb6-4e5d-9755-956f05e9ada5.png)
+![17](https://user-images.githubusercontent.com/98985632/192395750-f43eeb28-18fb-49aa-979a-9dd70b8991c5.png)
+![18](https://user-images.githubusercontent.com/98985632/192395754-6fe38600-7a61-43fa-bf51-791cf7a9e67a.png)
+![19](https://user-images.githubusercontent.com/98985632/192395758-76de016d-2c71-40c5-ac31-8f357b4c63b2.png)
+![20](https://user-images.githubusercontent.com/98985632/192395760-14357a03-c061-4694-a556-cd2d802209ee.png)
+![155](https://user-images.githubusercontent.com/98985632/192395761-619e495f-efb3-4288-97fb-97945a1ea393.png)
+![166](https://user-images.githubusercontent.com/98985632/192395765-204f3b33-6007-4aa5-bbc0-94ed0ae2d5b5.png)
+![177](https://user-images.githubusercontent.com/98985632/192395770-52284646-d7b0-47fc-94ee-8225d2d6ac88.png)
+![13](https://user-images.githubusercontent.com/98985632/192395772-374448ef-58dd-4c16-bf5e-f8a522179a23.png)
+![14](https://user-images.githubusercontent.com/98985632/192395775-9ba2333f-4f4e-4371-9290-86d2af2c997b.png)
+![15](https://user-images.githubusercontent.com/98985632/192395743-ea85b192-1718-4c1d-8bbe-5b249cf9d52f.png)
 
 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique sobrecarregados. Estipulamos datas de entrega e analisamos em grupo as entregas. Assim, para fazer isso usamos a metodologia Scrum, e nos reunimos ao longo da semana para ver o progresso de cada um. Demos preferencia para ferramentas que todos podiam acessar juntos, como o Miro, o Canva e o GitHub.
+
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+- Github -- Gabriel e Túlio
+- Wireframe -- Isabela
+- Miro -- Todos
 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/welcomeonboard/MzFTTEU2SGF2MWxoTnNLNWxESkZEVkc4Y0tKbWozT2lLcVh1dlk5aHI5ODQ1cTBGT29LMWd4VG9jeldncnF6NnwzNDU4NzY0NTMzMjc3NDAyODUwfDI=?share_link_id=136255874979 | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com |  
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -241,8 +208,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
-
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
