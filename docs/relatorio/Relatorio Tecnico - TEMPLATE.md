@@ -278,35 +278,16 @@ O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique so
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+Os cenários de testes utilizados foram: Cadastro do usuário, login com conta cadastrada, funcionalidade dos quizes, vizualização de conteúdo, funcionalidade dos itens no menu do site.
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1- Teste de cadastro do usuário: O usuário deve conseguir realizar seu cadastro no site, e o site deve salvar suas informações para que o ligin possa ser realizado posteriormente.
+2- Login com conta cadastrada: O usuário deve conseguir realizar seu login utilizando os dados cadastrados anteriormente.
+3- Funcionalidade dos quizes: O usuário deve conseguir realizar os quizes do site sem dificuldades relacionadas a interface.
+4- Vizualização de conteúdo: O usuário deve ser capaz de vizualizar todos os conteúdos disponíveis a ele sem restrições e sem maiores dificuldades para encontrrar o conteúdo desejado.
+5- Funcionalidade dos itens do menu do site: Todas as opções de menu devem ser utilizaveis e oferecerem a informação necessária ao usuário.
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
@@ -320,11 +301,8 @@ O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique so
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Google: "Como usar local storage" - https://warcontent.com/localstorage-javascript/
+Google: "O que é user flow" - https://medium.com/7bits/fluxo-de-usuário-user-flow-o-que-é-como-fazer-79d965872534
+Google: "Como usar o GitHub" - https://www.alura.com.br/artigos/o-que-e-git-github?gclid=CjwKCAiAp7GcBhA0EiwA9U0mtihRW1sMNHXeakmHtxKRGer65Ze7FTm12ajKayFe1SL0AwIF4dAp_hoC-zUQAvD_BwE
+Google: "Dinâmicas com JavaScript" -https://www.alura.com.br/conteudo/javascript-web-paginas-dinamicas--amp?gclid=CjwKCAiAp7GcBhA0EiwA9U0mth9L5d98NLfoBFrGMYz774UXsRISVmZz5JXqS2nZR2GQ1ZSjEIhx4xoCAmYQAvD_BwE
+Google: "Como definir personas" - https://pt.semrush.com/blog/o-que-e-persona/?kw=&cmp=BR_POR_SRCH_DSA_Blog_Core_BU_PT&label=dsa_pagefeed&Network=g&Device=c&utm_content=485541499897&kwid=dsa-897840244969&cmpid=9874598594&agpid=102029997244&BU=Core&extid=&adpos=&gclid=CjwKCAiAp7GcBhA0EiwA9U0mtlfRt2jgzmzdf8XzdrtJsxrS6UY5LLKID8SyCwvJhOqZsUw5fpkkpBoCFPAQAvD_BwE
