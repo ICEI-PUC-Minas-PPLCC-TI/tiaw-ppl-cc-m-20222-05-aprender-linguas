@@ -266,14 +266,8 @@ O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique so
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+![diagrama tiaw](https://user-images.githubusercontent.com/113730402/205507983-7155ed71-c820-4cd5-8b50-3905ebad410d.png)
 
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
-> 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
 
 
 # Avaliação da Aplicação
