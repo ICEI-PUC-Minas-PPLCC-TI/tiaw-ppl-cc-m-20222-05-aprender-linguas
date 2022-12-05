@@ -40,7 +40,6 @@
   - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
@@ -177,32 +176,16 @@ O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique so
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/welcomeonboard/MzFTTEU2SGF2MWxoTnNLNWxESkZEVkc4Y0tKbWozT2lLcVh1dlk5aHI5ODQ1cTBGT29LMWd4VG9jeldncnF6NnwzNDU4NzY0NTMzMjc3NDAyODUwfDI=?share_link_id=136255874979 | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Repl.it |  https://idiomatize.isabelap23.repl.co |  
-
->
-> Liste as ferramentas empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> As ferramentas empregadas no projeto são:
-> 
-> - Editor de código.
-> - Ferramentas de comunicação
-> - Ferramentas de diagramação
-> - Plataforma de hospedagem
-> 
-> O editor de código foi escolhido porque ele possui uma integração com o
-> sistema de versão. As ferramentas de comunicação utilizadas possuem
-> integração semelhante e por isso foram selecionadas. Por fim, para criar
-> diagramas utilizamos essa ferramenta por melhor captar as
-> necessidades da nossa solução.
-
+|Hospedagem do site | Repl.it |  https://idiomatize.isabelap23.repl.co | 
+|Wireframe | Canvas |  https://www.canva.com/design/DAFM4NTd_34/8gL2Zb6N7VsakahJSVFmHw/view?utm_content=DAFM4NTd_34&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu |
+|Editor de código | Visual Studio Code | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiirJib5eL7AhUKppUCHQDIDrYQFnoECAkQAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml |
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso projeto de solução consiste em um softaware, mais precisamente um website, no qual usa requisitos funcionais e não funcionais (Dinâmica Javascript, Apresentação de informação e Cadastros de informações). Assim, com essa ferramenta visamos resolver o problema anteriormente apresentado.
 
 ## Tecnologias Utilizadas
 
@@ -242,12 +225,7 @@ Os cenários de testes utilizados foram: Cadastro do usuário, login com conta c
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Além dos testes já feitos nas entregas da Sprint 2 e 3 de cada membro do grupo, também testamos o que foi citado acima. Os testes obtiveram sucesso, porém alguns erros foram detectados durante o processo, como botões do menu que não estavam funcionando, mas agora estão. Assim, essa etapa foi fundamental para melhorar o website desenvolvido. Ademais, os testes de cada sprint também foram cruciais para fazer uma boa entrega.
 
 
 # Referências
