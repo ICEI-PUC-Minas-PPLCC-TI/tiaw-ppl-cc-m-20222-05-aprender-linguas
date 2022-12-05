@@ -217,11 +217,11 @@ Os cenários de testes utilizados foram: Cadastro do usuário, login com conta c
 
 ## Plano de Testes
 
-1- Teste de cadastro do usuário: O usuário deve conseguir realizar seu cadastro no site, e o site deve salvar suas informações para que o ligin possa ser realizado posteriormente.
-2- Login com conta cadastrada: O usuário deve conseguir realizar seu login utilizando os dados cadastrados anteriormente.
-3- Funcionalidade dos quizes: O usuário deve conseguir realizar os quizes do site sem dificuldades relacionadas a interface.
-4- Vizualização de conteúdo: O usuário deve ser capaz de vizualizar todos os conteúdos disponíveis a ele sem restrições e sem maiores dificuldades para encontrrar o conteúdo desejado.
-5- Funcionalidade dos itens do menu do site: Todas as opções de menu devem ser utilizaveis e oferecerem a informação necessária ao usuário.
+> 1- Teste de cadastro do usuário: O usuário deve conseguir realizar seu cadastro no site, e o site deve salvar suas informações para que o ligin possa ser realizado posteriormente.
+> 2- Login com conta cadastrada: O usuário deve conseguir realizar seu login utilizando os dados cadastrados anteriormente.
+> 3- Funcionalidade dos quizes: O usuário deve conseguir realizar os quizes do site sem dificuldades relacionadas a interface.
+> 4- Vizualização de conteúdo: O usuário deve ser capaz de vizualizar todos os conteúdos disponíveis a ele sem restrições e sem maiores dificuldades para encontrrar o conteúdo desejado.
+> 5- Funcionalidade dos itens do menu do site: Todas as opções de menu devem ser utilizaveis e oferecerem a informação necessária ao usuário.
 
 
 ## Registros de Testes
