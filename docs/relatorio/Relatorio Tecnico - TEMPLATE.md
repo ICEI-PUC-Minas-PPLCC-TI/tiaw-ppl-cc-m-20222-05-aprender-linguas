@@ -105,29 +105,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre textos de estudo | ALTA | 
-|RF-002| Armazenar as informações de frequencia do usuário   | MÉDIA |
+|RF-001| Permitir a publicação de posts para praticar a escrita | ALTA | 
+|RF-002| Acesso via login   | ALTA |
+|RF-003| Permitir que o usuário filtre as postagens pela língua do conteúdo   | MÉDIA |
+|RF-004| Permitir que o usuário verifique sua aprendizagem com quiz   | MÉDIA |
+|RF-005| Permitir que o usuário pesquise posts de tema de seu interesse   | MÉDIA |
+|RF-006| Permitir que o usuário veja o post em uma tela de detalhes   | MÉDIA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003|	O cadastramento de informações deve ser rapido e fácil|	ALTA
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
+|RNF-001| O site deve ter uma interface amigável | ALTA | 
+|RNF-002| O site deve  funcionar em todos os dispositivos (celular, pc, tablet) | ALTA | 
+|RNF-003| O site deve  funcionar de forma rápida (não demorar a carregar) |  MÉDIA | 
+|RNF-004| O site deve dar segurança no login através do uso obrigatório de senha |  MÉDIA | 
+|RNF-005| O site deve ser fácil de usar|  MÉDIA | 
+|RNF-006| O site deve ter fácil navegação com uso de navbar |  MÉDIA | 
 
 ## Restrições
 
@@ -182,7 +177,7 @@ O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique so
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/welcomeonboard/MzFTTEU2SGF2MWxoTnNLNWxESkZEVkc4Y0tKbWozT2lLcVh1dlk5aHI5ODQ1cTBGT29LMWd4VG9jeldncnF6NnwzNDU4NzY0NTMzMjc3NDAyODUwfDI=?share_link_id=136255874979 | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com |  
+|Hospedagem do site | Repl.it |  https://idiomatize.isabelap23.repl.co |  
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
@@ -200,45 +195,7 @@ O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique so
 > integração semelhante e por isso foram selecionadas. Por fim, para criar
 > diagramas utilizamos essa ferramenta por melhor captar as
 > necessidades da nossa solução.
-> 
-> **Links Úteis - Hospedagem**:
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
 
-## Controle de Versão
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
->
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
