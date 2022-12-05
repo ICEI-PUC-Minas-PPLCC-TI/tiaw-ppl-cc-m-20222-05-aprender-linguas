@@ -175,7 +175,7 @@ O grupo resolveu dividir as tarefas de forma que nenhum membro do grupo fique so
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/welcomeonboard/MzFTTEU2SGF2MWxoTnNLNWxESkZEVkc4Y0tKbWozT2lLcVh1dlk5aHI5ODQ1cTBGT29LMWd4VG9jeldncnF6NnwzNDU4NzY0NTMzMjc3NDAyODUwfDI=?share_link_id=136255874979 | 
-|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/tiaw-ppl-cc-m-20222-05-aprender-linguas | 
 |Hospedagem do site | Repl.it |  https://idiomatize.isabelap23.repl.co | 
 |Wireframe | Canvas |  https://www.canva.com/design/DAFM4NTd_34/8gL2Zb6N7VsakahJSVFmHw/view?utm_content=DAFM4NTd_34&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu |
 |Editor de código | Visual Studio Code | https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiirJib5eL7AhUKppUCHQDIDrYQFnoECAkQAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml |
@@ -189,20 +189,21 @@ Nosso projeto de solução consiste em um softaware, mais precisamente um websit
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para implementar nossa solução, diversas ferramentas foram usadas. O projeto foi desenvolvido majoritariamente no computador e as linguagens usadas foram HTML, CSS e JavaScript. Para programar as IDE's utilizadas foram o Visual Studio Code e o Repl.it. Para adquirir o conhecimento necessário para a Dinâmica Javascript, Apresentação de informação e Cadastros de informações o grupo assistiu as aulas da disciplina DIW (Desenvolvimento de interface web), e os aulões da disciplina TIAW (Trabalho Interdisciplinar Aplicações Web). A seguir está uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+
+![image](https://user-images.githubusercontent.com/113730402/191881404-88604584-e225-4a8b-8ac0-04e09d7ddd74.png)
+![16](https://user-images.githubusercontent.com/98985632/192395747-3931fd46-7bb6-4e5d-9755-956f05e9ada5.png)
+![17](https://user-images.githubusercontent.com/98985632/192395750-f43eeb28-18fb-49aa-979a-9dd70b8991c5.png)
+![18](https://user-images.githubusercontent.com/98985632/192395754-6fe38600-7a61-43fa-bf51-791cf7a9e67a.png)
+![19](https://user-images.githubusercontent.com/98985632/192395758-76de016d-2c71-40c5-ac31-8f357b4c63b2.png)
+![20](https://user-images.githubusercontent.com/98985632/192395760-14357a03-c061-4694-a556-cd2d802209ee.png)
+![155](https://user-images.githubusercontent.com/98985632/192395761-619e495f-efb3-4288-97fb-97945a1ea393.png)
+![166](https://user-images.githubusercontent.com/98985632/192395765-204f3b33-6007-4aa5-bbc0-94ed0ae2d5b5.png)
+![177](https://user-images.githubusercontent.com/98985632/192395770-52284646-d7b0-47fc-94ee-8225d2d6ac88.png)
+![13](https://user-images.githubusercontent.com/98985632/192395772-374448ef-58dd-4c16-bf5e-f8a522179a23.png)
+![14](https://user-images.githubusercontent.com/98985632/192395775-9ba2333f-4f4e-4371-9290-86d2af2c997b.png)
+![15](https://user-images.githubusercontent.com/98985632/192395743-ea85b192-1718-4c1d-8bbe-5b249cf9d52f.png)
 
 ## Arquitetura da solução
 
